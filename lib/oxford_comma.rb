@@ -12,4 +12,4 @@ def oxford_comma(array)
 end
 
 
-puts oxford_comma(["nathan", "iqra", "ted"])
+puts oxford_comma(["nathan", "iqra", "ted", "paul", "ben"])
